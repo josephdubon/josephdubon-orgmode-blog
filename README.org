@@ -1,5 +1,5 @@
 #+title: Publishing org-mode projects on Gitlab Pages
-#+author: Sachin Patil <psachin@redhat.com>
+#+author: Joseph Dubon <jd@josephdubon.com>
 
 Example [[http://orgmode.org][org-mode]] website using [[https://about.gitlab.com/product/pages/][GitLab Pages]].
 
@@ -7,10 +7,6 @@ Learn more about GitLab Pages at [[https://about.gitlab.com/product/pages/]] and
 official documentation [[https://docs.gitlab.com/ce/user/project/pages/]].
 
 * How to use this repository to publish your own blogs?
-  - Clone the =blog_template= branch,
-    #+BEGIN_SRC shell
-      git clone https://gitlab.com/psachin/psachin.gitlab.io -b blog_template --single-branch myblog
-    #+END_SRC
 
   - Execute =make= to export org pages to HTML. The HTML pages will be generated
     in the =public/= directory,

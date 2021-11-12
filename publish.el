@@ -1,5 +1,5 @@
 ;; publish.el --- Publish org-mode project on Gitlab Pages
-;; Author: Sachin Patil <iclcoolster@gmail.com, psachin@redhat.com>
+;; Author: Joseph Dubon <jd@josephdubon.com>
 
 ;;; Commentary:
 ;; This Elisp will publish the org-mode files in 'posts/' to HTML format in 'public/'
@@ -112,7 +112,7 @@ publishing directory. Returns output file name."
          :exclude ,(regexp-opt '("README.org" "draft"))
          :auto-sitemap t
          :sitemap-filename "index.org"
-         :sitemap-title "Blog Index"
+         :sitemap-title "Into the Abyss"
          :sitemap-format-entry me/org-sitemap-format-entry
          :sitemap-style list
          :sitemap-sort-files anti-chronologically
@@ -126,13 +126,13 @@ publishing directory. Returns output file name."
         ("about"
          :base-directory "about"
          :base-extension "org"
-         :exclude ,(regexp-opt '("README.org" "draft"))
+         :exclude ,(regexp-opt '("README.org" "draft" "template"))
          :index-filename "index.org"
          :recursive nil
          :publishing-function org-html-publish-to-html
          :publishing-directory "./public/about"
          :html-link-home "/"
-         :html-link-up "/"
+         :html-link-up "#top"
          :html-head-include-scripts t
          :html-head-include-default-style nil
          :html-head ,me/website-html-head
@@ -159,8 +159,8 @@ publishing directory. Returns output file name."
         ("rss"
          :base-directory "posts"
          :base-extension "org"
-         :html-link-home "http://example.com/"
-         :rss-link-home "http://example.com/"
+         :html-link-home "http://josephdubon.com/"
+         :rss-link-home "http://josephdubon.com/"
          :html-link-use-abs-url t
          :rss-extension "xml"
          :publishing-directory "./public"

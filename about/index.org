@@ -1,9 +1,87 @@
-#+title: About
+#+title: Hello Friends!
 #+filetags: about
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+* Just A Dude
+My name is Joseph Dubon, I am a software engineer and a hardware hacker.
+I also have a huge passion for
+ + my 2 amazing kids and beautiful wife
+ + new and old music
+ + the Bible
+ + philosophy
+ + black and white photography
+ + helping others learn to code and tinker with hardware
+
+* Why create this blog?
++ To write about
+  + computers
+  + the internet
+  + technology
+  + software development
+  + cyber-security
+  + hardware hacking
+  + mental health awareness
+
+* My story
+...or how I stopped the circle of destruction and learned to live and love
+
++ *1986*
+  + Born in Guatemala City, Guatemala in Central America
+    + 1991 Moved to Las Vegas, Nevada
++ *1993*
+  + As a kid I loved to break/take apart anything from clocks, tv's and old 35mm cameras
+    + I have always had an obsession with the inner workings of things, I must know how and why things work the way they do
++ *1996*
+  + Built my first computer out of found and donated parts
+    + This was when I first time I saw lines of code on a screen
+    + With no real knowledge or place to learn about computers I scraped every website's source code to look for anything that made sense to me -it was foreign but after a while I was able to identify the structure of what made a website a website
+  + Was witness to the begining and birth of the mainstream internet
++ *1999*
+  + This was the year I really started to discover the world
+    + I discovered punk-rock, hip-hop, hardcore, black-metal music
+    + I found movies made by intelligent people with interesting points of views
+    + Realized all the good and well being I could contribute to the world through my knowledge of computers
++ *2003*
+  + Dropped out of high school and essentially became homeless for the next few years
+  + Took my laptop everywhere, started to learn old school methods of network penetration and protection
+    + Lived off of
+      + Burger King
+      + Redbll
+      + 7-11 Nachos
+      + Computer/tech documentaries
++ *2006*
+  + Mostly was a hobbiest web-developer, started building small static websites for my friends dads/uncles/aunts who had a business
++ *2007*
+  + This was the year I met my wife and basically changed the course of my life
++ *2012*
+  + My son is born and is one of the best memories I have on file
++ *2013*
+  + Started work as a computer technician/hardware hacker
++ *2015*
++ Started the year with meningitis and a 9-day coma!
+  + I am all and well now :-) will write about this experience one day
++ Daughter born
+  + One of the best memories I have
++ Started part-time -> full-time (sometimes) web developer work
++ *2018*
+  + 100% doing code all day every day! Woo Hoo!
+  + Learned 'real' programming
+    + JavaScript
+    + React
+    + JAMstack
+    + Ruby on rails
+    + API's
+    + VR/Unity
+    + All sorts off cool and awesome sh%t!
++ *2020*
+  + My year of Python and Django
+    + Went to school for full stack web-dev -never thought I would have a chance to pursue an education or some type of college (God is good)
+    + Spent this year learning and strengthening my programming skills to go 'pro'
+    + Survived Covid-19
++ *2021*
+  + Working as a full-stack software engineer
+  + Doing my best to be the best dad and husband I can be
+  + Survived Covid-19
+
+  + [ ] TODO
+    + Building an e-learning platform to teach anyone at any age to program a computer or build a website
+      + coming soon -> americoders.org

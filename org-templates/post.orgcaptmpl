@@ -1,0 +1,8 @@
+#+title: %^{Name}
+#+date: <%<%Y-%m-%d>>
+#+keywords: draft
+#+setupfile: ../org-templates/post.org
+
+%?
+
+#+INCLUDE: "../disquss.inc"

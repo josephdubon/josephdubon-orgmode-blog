@@ -1,0 +1,29 @@
+#+title: Initial Commit -err Post
+#+date: <2021-11-11>
+#+keywords: programming computers hiphop black-metal python django emacs org-mode
+#+setupfile: ../org-templates/post.org
+
+* initial-commit.post
+
+** Totally Awesome (like the movie!)
++ *This is pretty radical.*
+Been meaning to launch a bare-bones dev blog for a long time.
+Very excited to get this going and launched.
+
+** Emacs / Org-mode
++ This time around I am using *emacs* and *org-mode* to /write/ & /publish/ my posts.
+
+*** /Why?/
++ Because I fu%%$ng can!!
++ ...and emacs rules!
++ simplicity and *purism*
+*** Python, Django, M1 problems, Emacs, System Config...
++ ...and so many more cool things.
+
+** Muchas Gracias
++ Thanks for your time!
++ Next post soonish.
+
+
+
+#+INCLUDE: "../disquss.inc"

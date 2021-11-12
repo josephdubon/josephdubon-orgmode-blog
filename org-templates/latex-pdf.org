@@ -1,4 +1,4 @@
-#+EMAIL: john.doe@example.com
+#+EMAIL: jd@josephdubon.com
 #+OPTIONS: email:t
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS:

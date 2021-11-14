@@ -1,0 +1,44 @@
+#+title: A Few Simple JavaScript Games Part: One
+#+date: <2021-11-13>
+#+keywords: javascript games react simple projects
+#+setupfile: ../org-templates/post.org
+
+** javascriptgames.partone
+Enjoy!
+
+*** Welcome to the Thunder Dome
+#+ATTR_HTML: :class center spaced-border
+[[../images/posts/github_screenshots/welcome-to-the-thunderdome.png]]
+
+This was a fun two-player game to make.
+It records:
++ shots taken
++ score
++ shot percentage
+
++ Play
+  + https://josephdubon.github.io/react-basics-sports-game/
++ Code
+  + https://github.com/josephdubon/react-basics-sports-game/
+
+*** Magic Eight Ball featuring /'Laser-Kitty'/
+Ask a question and receive an answer!
+#+ATTR_HTML: :class center spaced-border
+[[../images/posts/github_screenshots/laser-kitty-eight-ball.png]]
+
++ Play
+  + https://josephdubon.github.io/magic-eight-ball/
++ Code
+  + https://github.com/josephdubon/magic-eight-ball
+
+*** Mahrio Maze
+A simple but fun maze game featuring Mahrio
+#+ATTR_HTML: :class center spaced-border
+[[../images/posts/github_screenshots/mahriomaze.png]]
+
++ Play
+  + https://josephdubon.github.io/maze-game/
++ Code
+  + https://github.com/josephdubon/maze-game
+
+#+INCLUDE: "../disquss.inc"

@@ -132,7 +132,7 @@ publishing directory. Returns output file name."
          :publishing-function org-html-publish-to-html
          :publishing-directory "./public/about"
          :html-link-home "/"
-         :html-link-up "#top"
+         :html-link-up "/"
          :html-head-include-scripts t
          :html-head-include-default-style nil
          :html-head ,me/website-html-head

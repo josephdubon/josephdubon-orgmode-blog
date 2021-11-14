@@ -1,9 +1,9 @@
 #+title: Initial Commit -err Post
-#+date: <2021-11-11>
+#+date: <2021-11-13>
 #+keywords: programming computers hiphop black-metal python django emacs org-mode
 #+setupfile: ../org-templates/post.org
 
-* initial-commit.post
+* initial-commit.hello
 
 ** Totally Awesome (like the movie!)
 + *This is pretty radical.*
